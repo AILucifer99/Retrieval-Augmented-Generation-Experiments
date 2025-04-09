@@ -1,0 +1,15 @@
+unstructured[all-docs]
+pillow
+lxml
+pillow
+chromadb
+tiktoken
+langchain 
+langchain-community 
+langchain-openai 
+langchain-groq
+langchain-google-genai
+langchain-chroma
+python-dotenv
+poppler-utils
+huggingface_hub[hf_xet]
